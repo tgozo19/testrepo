@@ -1,0 +1,22 @@
+[21-Jun-2021 13:40:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/pygentech/gocard.pygentech.com/api/db.php:2
+Stack trace:
+#0 /home/pygentech/gocard.pygentech.com/api/db.php(2): PDO->__construct('mysql:host=Loca...', 'root', '')
+#1 /home/pygentech/gocard.pygentech.com/api/logging/logging-in.php(6): include('/home/pygentech...')
+#2 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(38): proccessLogin()
+#3 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(25): validatePassword()
+#4 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(12): validateEmail()
+#5 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(42): validateMethod()
+#6 /home/pygentech/gocard.pygentech.com/api/logging/logging-in.php(3): include('/home/pygentech...')
+#7 {main}
+  thrown in /home/pygentech/gocard.pygentech.com/api/db.php on line 2
+[21-Jun-2021 13:40:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/pygentech/gocard.pygentech.com/api/db.php:2
+Stack trace:
+#0 /home/pygentech/gocard.pygentech.com/api/db.php(2): PDO->__construct('mysql:host=Loca...', 'root', '')
+#1 /home/pygentech/gocard.pygentech.com/api/logging/logging-in.php(6): include('/home/pygentech...')
+#2 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(38): proccessLogin()
+#3 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(25): validatePassword()
+#4 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(12): validateEmail()
+#5 /home/pygentech/gocard.pygentech.com/api/logging/logging-checks.php(42): validateMethod()
+#6 /home/pygentech/gocard.pygentech.com/api/logging/logging-in.php(3): include('/home/pygentech...')
+#7 {main}
+  thrown in /home/pygentech/gocard.pygentech.com/api/db.php on line 2

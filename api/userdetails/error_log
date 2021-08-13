@@ -1,0 +1,12 @@
+[21-Jun-2021 13:45:51 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/classes.php on line 30
+[21-Jun-2021 13:45:51 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/classes.php on line 30
+[21-Jun-2021 13:45:51 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 55
+[21-Jun-2021 13:45:51 UTC] PHP Notice:  Undefined variable: levelRef in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 68
+[21-Jun-2021 13:46:03 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 55
+[21-Jun-2021 13:46:03 UTC] PHP Notice:  Undefined variable: levelRef in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 68
+[21-Jun-2021 13:46:17 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 55
+[21-Jun-2021 13:46:17 UTC] PHP Notice:  Undefined variable: levelRef in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 68
+[21-Jun-2021 13:46:25 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/classes.php on line 30
+[21-Jun-2021 13:46:25 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/classes.php on line 30
+[21-Jun-2021 13:46:25 UTC] PHP Notice:  Undefined variable: levelName in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 55
+[21-Jun-2021 13:46:25 UTC] PHP Notice:  Undefined variable: levelRef in /home/pygentech/gocard.pygentech.com/api/userdetails/students.php on line 68
